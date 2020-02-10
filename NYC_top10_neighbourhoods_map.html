@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>L_PREFER_CANVAS = false; L_NO_TOUCH = false; L_DISABLE_3D = false;</script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.2.0/dist/leaflet.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.2.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawgit.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <style> #map_fa34a02f31274c60857443dd56179bcc {
+                position : relative;
+                width : 100.0%;
+                height: 100.0%;
+                left: 0.0%;
+                top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_fa34a02f31274c60857443dd56179bcc" ></div>
+        
+</body>
+<script>    
+    
+
+            
+                var bounds = null;
+            
+
+            var map_fa34a02f31274c60857443dd56179bcc = L.map(
+                                  'map_fa34a02f31274c60857443dd56179bcc',
+                                  {center: [40.7127281,-74.0060152],
+                                  zoom: 11,
+                                  maxBounds: bounds,
+                                  layers: [],
+                                  worldCopyJump: false,
+                                  crs: L.CRS.EPSG3857
+                                 });
+            
+        
+    
+            var tile_layer_25539199f9374b2cb03a940c6afa32d1 = L.tileLayer(
+                'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+                {
+  "attribution": null,
+  "detectRetina": false,
+  "maxZoom": 18,
+  "minZoom": 1,
+  "noWrap": false,
+  "subdomains": "abc"
+}
+                ).addTo(map_fa34a02f31274c60857443dd56179bcc);
+        
+    
+
+            var marker_422fae3cf1da4910ab2a5c9a7dcdd4be = L.marker(
+                [40.85727710073895,-73.88845196134804],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_fa34a02f31274c60857443dd56179bcc);
+            
+    
+
+                var icon_5e244ad0a7cc4d78855592e5c1c19d0d = L.AwesomeMarkers.icon({
+                    icon: 'cutlery',
+                    iconColor: 'white',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_422fae3cf1da4910ab2a5c9a7dcdd4be.setIcon(icon_5e244ad0a7cc4d78855592e5c1c19d0d);
+            
+    
+            var popup_a6949465d66f40aeaa5db6ef29206c99 = L.popup({maxWidth: '300'});
+
+            
+                var html_e93c51595e8a408a854e68822c84a10a = $('<div id="html_e93c51595e8a408a854e68822c84a10a" style="width: 100.0%; height: 100.0%;">Belmont, Bronx(19)</div>')[0];
+                popup_a6949465d66f40aeaa5db6ef29206c99.setContent(html_e93c51595e8a408a854e68822c84a10a);
+            
+
+            marker_422fae3cf1da4910ab2a5c9a7dcdd4be.bindPopup(popup_a6949465d66f40aeaa5db6ef29206c99);
+
+            
+        
+    
+
+            var marker_3e6ec64234df40ac99c0c27db4fc2f4c = L.marker(
+                [40.72693288536128,-73.99991402945902],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_fa34a02f31274c60857443dd56179bcc);
+            
+    
+
+                var icon_7a94847e940a49a1a605cbeeee2eda66 = L.AwesomeMarkers.icon({
+                    icon: 'cutlery',
+                    iconColor: 'white',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_3e6ec64234df40ac99c0c27db4fc2f4c.setIcon(icon_7a94847e940a49a1a605cbeeee2eda66);
+            
+    
+            var popup_e19cf28be000466fa112158d451b116a = L.popup({maxWidth: '300'});
+
+            
+                var html_d8d039a2c971435dbb2af11c72275279 = $('<div id="html_d8d039a2c971435dbb2af11c72275279" style="width: 100.0%; height: 100.0%;">Greenwich Village, Manhattan(13)</div>')[0];
+                popup_e19cf28be000466fa112158d451b116a.setContent(html_d8d039a2c971435dbb2af11c72275279);
+            
+
+            marker_3e6ec64234df40ac99c0c27db4fc2f4c.bindPopup(popup_e19cf28be000466fa112158d451b116a);
+
+            
+        
+    
+
+            var marker_f9bdb4895e164d6bb90a6daba2b0d647 = L.marker(
+                [40.680540231076485,-73.99465372828006],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_fa34a02f31274c60857443dd56179bcc);
+            
+    
+
+                var icon_6ffa0fea66be46a49d861f15377420bc = L.AwesomeMarkers.icon({
+                    icon: 'cutlery',
+                    iconColor: 'white',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_f9bdb4895e164d6bb90a6daba2b0d647.setIcon(icon_6ffa0fea66be46a49d861f15377420bc);
+            
+    
+            var popup_0a2533a7fd4645b8b7074c3641f048b7 = L.popup({maxWidth: '300'});
+
+            
+                var html_0c42c42860f94582abdd6469b8e0665f = $('<div id="html_0c42c42860f94582abdd6469b8e0665f" style="width: 100.0%; height: 100.0%;">Carroll Gardens, Brooklyn(11)</div>')[0];
+                popup_0a2533a7fd4645b8b7074c3641f048b7.setContent(html_0c42c42860f94582abdd6469b8e0665f);
+            
+
+            marker_f9bdb4895e164d6bb90a6daba2b0d647.bindPopup(popup_0a2533a7fd4645b8b7074c3641f048b7);
+
+            
+        
+    
+
+            var marker_06195f2160484fdba5109bf9ecbce526 = L.marker(
+                [40.73443393572434,-74.00617998126812],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_fa34a02f31274c60857443dd56179bcc);
+            
+    
+
+                var icon_4fa7665c545245529ba22aae5fa19913 = L.AwesomeMarkers.icon({
+                    icon: 'cutlery',
+                    iconColor: 'white',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_06195f2160484fdba5109bf9ecbce526.setIcon(icon_4fa7665c545245529ba22aae5fa19913);
+            
+    
+            var popup_302daeb4b43248489b72d7889ba81d92 = L.popup({maxWidth: '300'});
+
+            
+                var html_38defcb2f3fc42a0b80c54363f47f24f = $('<div id="html_38defcb2f3fc42a0b80c54363f47f24f" style="width: 100.0%; height: 100.0%;">West Village, Manhattan(8)</div>')[0];
+                popup_302daeb4b43248489b72d7889ba81d92.setContent(html_38defcb2f3fc42a0b80c54363f47f24f);
+            
+
+            marker_06195f2160484fdba5109bf9ecbce526.bindPopup(popup_302daeb4b43248489b72d7889ba81d92);
+
+            
+        
+    
+
+            var marker_114a07f448ac4832b1eea0019e4113cf = L.marker(
+                [40.775929849884875,-73.94711784471826],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_fa34a02f31274c60857443dd56179bcc);
+            
+    
+
+                var icon_5d3c9fe82a774684b9e2c59be2a7228e = L.AwesomeMarkers.icon({
+                    icon: 'cutlery',
+                    iconColor: 'white',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_114a07f448ac4832b1eea0019e4113cf.setIcon(icon_5d3c9fe82a774684b9e2c59be2a7228e);
+            
+    
+            var popup_f358066a3e8344438df0baaa2a085efc = L.popup({maxWidth: '300'});
+
+            
+                var html_7b9bb1093ab34dd5aa2118128eb4635b = $('<div id="html_7b9bb1093ab34dd5aa2118128eb4635b" style="width: 100.0%; height: 100.0%;">Yorkville, Manhattan(7)</div>')[0];
+                popup_f358066a3e8344438df0baaa2a085efc.setContent(html_7b9bb1093ab34dd5aa2118128eb4635b);
+            
+
+            marker_114a07f448ac4832b1eea0019e4113cf.bindPopup(popup_f358066a3e8344438df0baaa2a085efc);
+
+            
+        
+    
+
+            var marker_96bb7fb56b5f49379e9c72e20b67adfc = L.marker(
+                [40.775638573301805,-73.96050763135],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_fa34a02f31274c60857443dd56179bcc);
+            
+    
+
+                var icon_c0fff4756f984e31bbc0690c1a5ee782 = L.AwesomeMarkers.icon({
+                    icon: 'cutlery',
+                    iconColor: 'white',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_96bb7fb56b5f49379e9c72e20b67adfc.setIcon(icon_c0fff4756f984e31bbc0690c1a5ee782);
+            
+    
+            var popup_a92fb11135ca489ab3a023135d8fcf24 = L.popup({maxWidth: '300'});
+
+            
+                var html_e2cf63ff91e649dfb0ced1b16890da3d = $('<div id="html_e2cf63ff91e649dfb0ced1b16890da3d" style="width: 100.0%; height: 100.0%;">Upper East Side, Manhattan(7)</div>')[0];
+                popup_a92fb11135ca489ab3a023135d8fcf24.setContent(html_e2cf63ff91e649dfb0ced1b16890da3d);
+            
+
+            marker_96bb7fb56b5f49379e9c72e20b67adfc.bindPopup(popup_a92fb11135ca489ab3a023135d8fcf24);
+
+            
+        
+    
+
+            var marker_38e59adac4804c6c8c345c11413121f6 = L.marker(
+                [40.72325901885768,-73.98843368023597],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_fa34a02f31274c60857443dd56179bcc);
+            
+    
+
+                var icon_01f15efb95de4e10bc202204bd6bad19 = L.AwesomeMarkers.icon({
+                    icon: 'cutlery',
+                    iconColor: 'white',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_38e59adac4804c6c8c345c11413121f6.setIcon(icon_01f15efb95de4e10bc202204bd6bad19);
+            
+    
+            var popup_4237d5c742fc4a46bb60a1da6cd4e5ed = L.popup({maxWidth: '300'});
+
+            
+                var html_8af18b38c5f34e158114aac30a3ddf3c = $('<div id="html_8af18b38c5f34e158114aac30a3ddf3c" style="width: 100.0%; height: 100.0%;">Noho, Manhattan(6)</div>')[0];
+                popup_4237d5c742fc4a46bb60a1da6cd4e5ed.setContent(html_8af18b38c5f34e158114aac30a3ddf3c);
+            
+
+            marker_38e59adac4804c6c8c345c11413121f6.bindPopup(popup_4237d5c742fc4a46bb60a1da6cd4e5ed);
+
+            
+        
+    
+
+            var marker_c52bf778bf9a403dbc630251337050d6 = L.marker(
+                [40.76811265828733,-73.9588596881376],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_fa34a02f31274c60857443dd56179bcc);
+            
+    
+
+                var icon_611375031c374d81bd85630a49bbe9a8 = L.AwesomeMarkers.icon({
+                    icon: 'cutlery',
+                    iconColor: 'white',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_c52bf778bf9a403dbc630251337050d6.setIcon(icon_611375031c374d81bd85630a49bbe9a8);
+            
+    
+            var popup_142a856fbc1a453d89d957c59ba57015 = L.popup({maxWidth: '300'});
+
+            
+                var html_a3bb86ca54e24b7dbb865a923abffec4 = $('<div id="html_a3bb86ca54e24b7dbb865a923abffec4" style="width: 100.0%; height: 100.0%;">Lenox Hill, Manhattan(6)</div>')[0];
+                popup_142a856fbc1a453d89d957c59ba57015.setContent(html_a3bb86ca54e24b7dbb865a923abffec4);
+            
+
+            marker_c52bf778bf9a403dbc630251337050d6.bindPopup(popup_142a856fbc1a453d89d957c59ba57015);
+
+            
+        
+    
+
+            var marker_769f22d26f04416499bb5a94e90cb15e = L.marker(
+                [40.737209832715,-73.98137594833541],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_fa34a02f31274c60857443dd56179bcc);
+            
+    
+
+                var icon_9247604d499848939c8191c065027cc6 = L.AwesomeMarkers.icon({
+                    icon: 'cutlery',
+                    iconColor: 'white',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_769f22d26f04416499bb5a94e90cb15e.setIcon(icon_9247604d499848939c8191c065027cc6);
+            
+    
+            var popup_00bfcc0b96aa43598fd4a35a1d008350 = L.popup({maxWidth: '300'});
+
+            
+                var html_25079db78afb4d1c8f8a871aa92f2d92 = $('<div id="html_25079db78afb4d1c8f8a871aa92f2d92" style="width: 100.0%; height: 100.0%;">Gramercy, Manhattan(5)</div>')[0];
+                popup_00bfcc0b96aa43598fd4a35a1d008350.setContent(html_25079db78afb4d1c8f8a871aa92f2d92);
+            
+
+            marker_769f22d26f04416499bb5a94e90cb15e.bindPopup(popup_00bfcc0b96aa43598fd4a35a1d008350);
+
+            
+        
+    
+
+            var marker_ecc14c2359124f65aee54541bfd8718b = L.marker(
+                [40.75910089146212,-73.99611936309479],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_fa34a02f31274c60857443dd56179bcc);
+            
+    
+
+                var icon_94ad35e779544ee68bb1793f507b6f96 = L.AwesomeMarkers.icon({
+                    icon: 'cutlery',
+                    iconColor: 'white',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_ecc14c2359124f65aee54541bfd8718b.setIcon(icon_94ad35e779544ee68bb1793f507b6f96);
+            
+    
+            var popup_09034cd0091c4e79a382be20b7964eb7 = L.popup({maxWidth: '300'});
+
+            
+                var html_858b6542c29e4bc69b5939d0e812ba48 = $('<div id="html_858b6542c29e4bc69b5939d0e812ba48" style="width: 100.0%; height: 100.0%;">Clinton, Manhattan(5)</div>')[0];
+                popup_09034cd0091c4e79a382be20b7964eb7.setContent(html_858b6542c29e4bc69b5939d0e812ba48);
+            
+
+            marker_ecc14c2359124f65aee54541bfd8718b.bindPopup(popup_09034cd0091c4e79a382be20b7964eb7);
+
+            
+        
+    
+            var feature_group_3fb6bd4813ef45c3b73ed3955e8423ea = L.featureGroup(
+                ).addTo(map_fa34a02f31274c60857443dd56179bcc);
+        
+    
+            var circle_marker_32e25919db7f43b2a098d7d503034b1a = L.circleMarker(
+                [40.85727710073895,-73.88845196134804],
+                {
+  "bubblingMouseEvents": true,
+  "color": "red",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "white",
+  "fillOpacity": 0.6,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(feature_group_3fb6bd4813ef45c3b73ed3955e8423ea);
+            
+    
+            var circle_marker_7d2755d3abb44b39a2dde2d1e47e9665 = L.circleMarker(
+                [40.72693288536128,-73.99991402945902],
+                {
+  "bubblingMouseEvents": true,
+  "color": "red",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "white",
+  "fillOpacity": 0.6,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(feature_group_3fb6bd4813ef45c3b73ed3955e8423ea);
+            
+    
+            var circle_marker_3e85d12d34924558ad7282665c79be4c = L.circleMarker(
+                [40.680540231076485,-73.99465372828006],
+                {
+  "bubblingMouseEvents": true,
+  "color": "red",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "white",
+  "fillOpacity": 0.6,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(feature_group_3fb6bd4813ef45c3b73ed3955e8423ea);
+            
+    
+            var circle_marker_f212a6f25a1b49dda54c667b5c609f94 = L.circleMarker(
+                [40.73443393572434,-74.00617998126812],
+                {
+  "bubblingMouseEvents": true,
+  "color": "red",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "white",
+  "fillOpacity": 0.6,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(feature_group_3fb6bd4813ef45c3b73ed3955e8423ea);
+            
+    
+            var circle_marker_f28fb0e51be24761a338ca414ecec6a2 = L.circleMarker(
+                [40.775929849884875,-73.94711784471826],
+                {
+  "bubblingMouseEvents": true,
+  "color": "red",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "white",
+  "fillOpacity": 0.6,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(feature_group_3fb6bd4813ef45c3b73ed3955e8423ea);
+            
+    
+            var circle_marker_ebb70c14ff8f4d30b1406007bcb11d83 = L.circleMarker(
+                [40.775638573301805,-73.96050763135],
+                {
+  "bubblingMouseEvents": true,
+  "color": "red",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "white",
+  "fillOpacity": 0.6,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(feature_group_3fb6bd4813ef45c3b73ed3955e8423ea);
+            
+    
+            var circle_marker_5cd930cd15e3439a99336dfb454bc590 = L.circleMarker(
+                [40.72325901885768,-73.98843368023597],
+                {
+  "bubblingMouseEvents": true,
+  "color": "red",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "white",
+  "fillOpacity": 0.6,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(feature_group_3fb6bd4813ef45c3b73ed3955e8423ea);
+            
+    
+            var circle_marker_ff021e38730b4a1ab5c03ca7342f223c = L.circleMarker(
+                [40.76811265828733,-73.9588596881376],
+                {
+  "bubblingMouseEvents": true,
+  "color": "red",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "white",
+  "fillOpacity": 0.6,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(feature_group_3fb6bd4813ef45c3b73ed3955e8423ea);
+            
+    
+            var circle_marker_ffdd33592b1d46d1b6aea28bdfa216e9 = L.circleMarker(
+                [40.737209832715,-73.98137594833541],
+                {
+  "bubblingMouseEvents": true,
+  "color": "red",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "white",
+  "fillOpacity": 0.6,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(feature_group_3fb6bd4813ef45c3b73ed3955e8423ea);
+            
+    
+            var circle_marker_17f13739b1f347a9980bb4e27479b2c5 = L.circleMarker(
+                [40.75910089146212,-73.99611936309479],
+                {
+  "bubblingMouseEvents": true,
+  "color": "red",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "white",
+  "fillOpacity": 0.6,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 8,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(feature_group_3fb6bd4813ef45c3b73ed3955e8423ea);
+            
+</script>
