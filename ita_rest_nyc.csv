@@ -1,0 +1,306 @@
+Borough,Neighbourhood,ID,Name
+Bronx,Woodlawn,511edb6de4b0d58346fd272d,Patrizia's Of Woodlawn
+Bronx,Pelham Parkway,4bf96ae65317a593d837017f,Enzo's
+Bronx,Pelham Parkway,4b47f069f964a5208c4426e3,Pasta Pasta
+Bronx,City Island,4514ed4df964a520e5391fe3,Artie's Steak and Seafood
+Bronx,Throgs Neck,4d4456d93616b60c953fe3c2,Tosca Marquee
+Bronx,Morris Park,4b10591af964a5205f6e23e3,Patricia's
+Bronx,Belmont,4acf80aef964a52025d420e3,Tino's Delicatessen
+Bronx,Belmont,4af71916f964a520cf0522e3,Michaelangelo's Coal Fired Brick Oven Pizza Restaurant
+Bronx,Belmont,59050f51b23dfa5f6649e678,Arthur Avenue Fiasco
+Bronx,Belmont,4bb6470cef159c7465b275f7,Calabria Pork Store
+Bronx,Belmont,4b5514c4f964a5207cda27e3,Enzo's
+Bronx,Belmont,4aa425bef964a5208e4520e3,Dominick's Restaurant
+Bronx,Belmont,4af0fa29f964a52060e021e3,Antonio's Trattoria
+Bronx,Belmont,4aa193d5f964a520124120e3,Mario's Restaurant & Catering
+Bronx,Belmont,4c79d294278eb713f6a05580,Cafe al Mercato
+Bronx,Belmont,4a8e261cf964a5201c1220e3,Roberto's
+Bronx,Belmont,4c9b9e7b9c663704b90463fd,Gerbasi Ristorante
+Bronx,Belmont,4b5a4c8ff964a52049bb28e3,Emilia's Restaurant
+Bronx,Belmont,4bc22a22920eb713bcc51b2c,Tra Di Noi
+Bronx,Belmont,4b5bc595f964a520431529e3,Pasquale Riggaletto's
+Bronx,Belmont,4cb0d382ef1b370419643e00,David Greco's Arthur Avenue Trattoria
+Bronx,Belmont,53ff939c498e6b601dfa3979,San Gennaro Ristorante
+Bronx,Belmont,4bc67f1104e8b713a833362d,Ann & Tony's - An Original Arthur Avenue Restaurant
+Bronx,Belmont,44941e38f964a52081341fe3,Arthur Avenue Cafe
+Bronx,Belmont,57005f75498ed225ade7266d,Tapas Italiano Fusion Restaurant
+Bronx,North Riverdale,4b3bdd2cf964a520f57c25e3,Madison's
+Bronx,North Riverdale,4b451a29f964a520ad0426e3,Beccofino
+Bronx,Pelham Bay,4b85b6b3f964a5209b6e31e3,Giovanni's Italian Restaurant
+Bronx,Pelham Bay,4c9e1ef2542b224b70a3f09f,Lucca Italian Restaurant
+Bronx,Pelham Bay,4bc20b8d2a89ef3b6f1af388,Villa Barone Ristorante
+Bronx,Schuylerville,4bb8eb3ecf2fc9b65506a002,Louis Seafood
+Bronx,Edgewater Park,4b4e3e87f964a5209de626e3,Patricia's of Tremont
+Bronx,Edgewater Park,4d4456d93616b60c953fe3c2,Tosca Marquee
+Bronx,Edgewater Park,4c1d717b8b3aa59363a99a5f,Spoto's Italian Restaurant
+Bronx,Edgewater Park,4b491198f964a5208f6426e3,Rino's Italian Restaurant
+Bronx,Pelham Gardens,4c9518076b35a143d5dc21dc,Fratelli's
+Bronx,Concourse,4bfd8d06f61dc9b669309fde,Tiny's Pizza & Pasta
+Brooklyn,Bay Ridge,4b70d8dff964a52063312de3,Tuscany Grill
+Brooklyn,Bay Ridge,4ad62c95f964a5208d0521e3,Zio Toto
+Brooklyn,Bay Ridge,4e732dff45dd41e9ccce1987,Giacomo's Wood Fired Pizza & Trattoria
+Brooklyn,Bay Ridge,4a7e205ef964a52012f11fe3,Sofia Restorante Italiano
+Brooklyn,Bay Ridge,5071f049e4b05fb6c443ec8e,Zitelli's Thin Crust Pizza and Bar
+Brooklyn,Bensonhurst,4e30a139483bb3fdc436a7e3,Villa Fiorita
+Brooklyn,Bensonhurst,4ae23a80f964a5200c8c21e3,il Colosseo
+Brooklyn,Sunset Park,5095a98ae4b0038a605e6f45,Cafe Lore
+Brooklyn,Greenpoint,4ff37cb9e4b0b8fda883be7f,Adelina's
+Brooklyn,Greenpoint,5424b085498ec9a9cdb44b70,Naked Dog
+Brooklyn,Gravesend,4ad8c329f964a520731421e3,Joe's of Avenue U
+Brooklyn,Gravesend,50e4d94c29a650be853797fc,Cafe On The Hill
+Brooklyn,Sheepshead Bay,4ad9fb95f964a520bb1c21e3,Il Fornetto
+Brooklyn,Windsor Terrace,4ec7fa185c5ce271be2b2bfa,Giovanni's Brooklyn Eats
+Brooklyn,Prospect Heights,4a85e6c2f964a52093ff1fe3,Cataldo's
+Brooklyn,Bushwick,5a98aed16a59506d7a60d67c,Carmenta’s
+Brooklyn,Brooklyn Heights,4be30f9dd27a20a1cd1f915b,River Deli
+Brooklyn,Brooklyn Heights,3fd66200f964a520ece81ee3,Noodle Pudding
+Brooklyn,Brooklyn Heights,4e851ede8231a2bbfef10e1f,Bevacco
+Brooklyn,Cobble Hill,5a0740a3e1f22816d11723d5,Lillo
+Brooklyn,Cobble Hill,593329652632ec0582bd71df,Popina
+Brooklyn,Cobble Hill,5044f749e4b0dd909d2cc123,Table 87
+Brooklyn,Carroll Gardens,49c4ff90f964a520da561fe3,Fragole
+Brooklyn,Carroll Gardens,4aa85f31f964a520075120e3,Vinny's of Carroll Gardens
+Brooklyn,Carroll Gardens,506cb4a8e4b02db545b4bf5c,Claudine's
+Brooklyn,Carroll Gardens,41abb800f964a520561e1fe3,Frankies 457 Spuntino
+Brooklyn,Carroll Gardens,5766ad56498ebf269c3737d2,Gersi
+Brooklyn,Carroll Gardens,5c034c3ff5e9d7002c2a78b1,FRANKS Wine Bar
+Brooklyn,Carroll Gardens,5a56ac38dd70c54d5825002f,Panzerotti Bites
+Brooklyn,Carroll Gardens,4a32d7ebf964a520a29a1fe3,Enoteca on Court
+Brooklyn,Carroll Gardens,4ab98ab8f964a520cf7f20e3,Marco Polo Ristorante
+Brooklyn,Carroll Gardens,4bba7fbe3db7b7131269239a,Verde on Smith
+Brooklyn,Carroll Gardens,5001e284e4b0d8ae060e1035,Ciros on Smith
+Brooklyn,Gowanus,41abb800f964a520561e1fe3,Frankies 457 Spuntino
+Brooklyn,Gowanus,49d10b5af964a520545b1fe3,Bar Tano
+Brooklyn,Gowanus,5c034c3ff5e9d7002c2a78b1,FRANKS Wine Bar
+Brooklyn,Gowanus,53e8d7f7498e6074234e8e33,Aperture Restaurant
+Brooklyn,Fort Greene,5a00f3538496ca58fd9e2856,Evelina Restaurant
+Brooklyn,Fort Greene,4c2d1eb17d85a593fa1452f3,Dino
+Brooklyn,Fort Greene,4afca48af964a520ab2422e3,Roman’s
+Brooklyn,Fort Greene,5c1ed45016fa04002cf9a53f,Fradei
+Brooklyn,Fort Greene,4acbe4fbf964a52040c820e3,Caffe e Vino
+Brooklyn,Park Slope,4d2ce735762fa143f40b7464,Da Nonna Rosa Cucina Italiana
+Brooklyn,Park Slope,4a482531f964a5209aaa1fe3,Scottadito Osteria Toscana
+Brooklyn,Park Slope,44bcb47ef964a5209b351fe3,al di là
+Brooklyn,Bath Beach,521a7e8a498e9a3defc15591,Casa Edesia Pizza and Grill
+Brooklyn,Bath Beach,4afac880f964a520ad1822e3,Pino's Ristorante
+Brooklyn,Clinton Hill,57a3dfc8498e490e4b231778,LaRina Pastificio & Vino
+Brooklyn,Clinton Hill,572d1d41498e2483c3bed970,Da Ciro Brooklyn
+Brooklyn,Clinton Hill,4afca48af964a520ab2422e3,Roman’s
+Brooklyn,Clinton Hill,5a00f3538496ca58fd9e2856,Evelina Restaurant
+Brooklyn,Clinton Hill,4c2d1eb17d85a593fa1452f3,Dino
+Brooklyn,Downtown,4acbe4fbf964a52040c820e3,Caffe e Vino
+Brooklyn,Boerum Hill,4d9f5a9efc4f721e7e5a9d5f,Rucola
+Brooklyn,Prospect Lefferts Gardens,59bfcdfb2079551e2b628d20,Camillo
+Brooklyn,Georgetown,4c267153b012b71350e30893,Landi's Pork Store
+Brooklyn,North Side,4a08e2fff964a52022741fe3,Fiore
+Brooklyn,South Side,4a08e2fff964a52022741fe3,Fiore
+Brooklyn,Fort Hamilton,525c26bc11d277827d14468f,Campania Coal Fired Pizza
+Brooklyn,Fort Hamilton,55ff210c498ef9c10335dc0b,Positano
+Manhattan,Chinatown,472a027af964a520ea4b1fe3,Bacaro
+Manhattan,Washington Heights,4d21107c6e8c37042b58ff9f,Saggio Restaurant
+Manhattan,Hamilton Heights,56d8e01d498ef1500ae7fbfe,Fumo
+Manhattan,Manhattanville,457f1183f964a5204b3f1fe3,Pisticci Ristorante
+Manhattan,Manhattanville,4c956003f7cfa1cd2e2ebd15,Bettolona
+Manhattan,Upper East Side,4a22d7f9f964a520977d1fe3,Sant Ambroeus
+Manhattan,Upper East Side,4b3bedfaf964a5209e7e25e3,Antonucci
+Manhattan,Upper East Side,4ab972d6f964a520697f20e3,Parma Restaurant
+Manhattan,Upper East Side,57d9ddfe498e8a66d21ce8bb,Sistina
+Manhattan,Upper East Side,4a6133a6f964a52015c21fe3,Caffe Buon Gusto - Manhattan
+Manhattan,Upper East Side,49fcd632f964a520e36e1fe3,Tiramisu
+Manhattan,Upper East Side,4b5260e2f964a520587a27e3,Quattro Gatti Ristorante
+Manhattan,Yorkville,4b623700f964a520a83c2ae3,Nica Trattoria
+Manhattan,Yorkville,4e4078922271a89dd083d07e,Felice 83
+Manhattan,Yorkville,504bb0fae4b0d1cf33ca07d0,83 1/2
+Manhattan,Yorkville,4b651459f964a52030e32ae3,Italianissimo Ristorante
+Manhattan,Yorkville,4b981d9af964a520802d35e3,Elio's
+Manhattan,Yorkville,4a84af7ff964a52055fd1fe3,Arturo's
+Manhattan,Yorkville,4bd223c941b9ef3b4770fde5,Pinocchio Ristorante
+Manhattan,Lenox Hill,4b775e32f964a520a6952ee3,Campagnola Restaurant
+Manhattan,Lenox Hill,4b495fb4f964a520a36e26e3,Delizia 73 Ristorante & Pizza
+Manhattan,Lenox Hill,3fd66200f964a52075e91ee3,Bella Blu
+Manhattan,Lenox Hill,51c9e3f9498e2cb9c31d19ff,The Meatball Shop
+Manhattan,Lenox Hill,4a78f65ef964a520b7e61fe3,Mezzaluna Restaurants
+Manhattan,Lenox Hill,5365a69c498e43ca2718d05c,Gina La Fornarina
+Manhattan,Upper West Side,42489a80f964a5208a201fe3,Celeste
+Manhattan,Upper West Side,56afed04498e39e35747adf2,Pizzeria Sirenetta
+Manhattan,Upper West Side,4d68839467a8f04df7ee01be,Osteria Cotta
+Manhattan,Upper West Side,5282b4bf11d2b180cc775713,Cibo E Vino
+Manhattan,Upper West Side,4a7778a1f964a5209be41fe3,Carmine's Italian Restaurant
+Manhattan,Lincoln Square,4c881d60a0ffb60ccda81fc5,Lincoln Ristorante
+Manhattan,Lincoln Square,459395b7f964a52047401fe3,Cafe Fiorello
+Manhattan,Lincoln Square,5971432facc5f5412834b3f7,Noi Due Carne
+Manhattan,Lincoln Square,4b69b408f964a520c5ae2be3,Noi Due
+Manhattan,Lincoln Square,4ee6366b77c8e89319c7e4b8,Joanne Trattoria
+Manhattan,Clinton,5633bec0498e430fc8ba8f3c,La Vela Dining & Bar
+Manhattan,Clinton,4bbb9caaafe1b7139a6b2f4b,Mercato
+Manhattan,Clinton,505b7061e4b0571999fb3da8,Tavola
+Manhattan,Clinton,506e48ffe4b078ebe1c30a29,Bocca Di Bacco
+Manhattan,Clinton,5c6377a0c824ae002c25c915,dell’anima
+Manhattan,Murray Hill,4afa15d8f964a520931622e3,Villa Berulia
+Manhattan,Murray Hill,4b3c0273f964a520488025e3,Rossinis
+Manhattan,Murray Hill,4d99cbdc7cfc145660ac49f6,Piccolo Cafe
+Manhattan,Chelsea,511d6006e4b0a486ec088c89,The Meatball Shop
+Manhattan,Chelsea,4533d338f964a5208f3b1fe3,Del Posto
+Manhattan,Chelsea,3fd66200f964a520bfe31ee3,Pepe Giallo
+Manhattan,Chelsea,568fdd94498eb2a76d66afb0,Momofuku Nishi
+Manhattan,Greenwich Village,504b2a9ee4b006c435a465d3,Carbone
+Manhattan,Greenwich Village,579e5513498e9ffc61b6ad8e,Piccola Cucina Enoteca
+Manhattan,Greenwich Village,5ab53749446ea6289e41b0e6,Coco Pazzo Kitchen & Restaurant
+Manhattan,Greenwich Village,3fd66200f964a520dbe91ee3,Lupa
+Manhattan,Greenwich Village,3fd66200f964a52023e61ee3,Pepe Rosso To Go
+Manhattan,Greenwich Village,54c3198d498eb66c4d02fd9e,Song' e Napule Pizzeria
+Manhattan,Greenwich Village,5319188d498e3fb409caa7fd,Carroll Place
+Manhattan,Greenwich Village,556f4ef2498ee60139b28c72,Dante NYC
+Manhattan,Greenwich Village,51278a09e4b0b624edbc914c,Charlie Bird
+Manhattan,Greenwich Village,56d92e05498e6c54b6325b19,San Carlo Osteria Piemonte
+Manhattan,Greenwich Village,50e6eae5e4b06de013260a31,Bar Ciccio Alimentari
+Manhattan,Greenwich Village,4b5210cbf964a5202f6527e3,Villa Mosconi Restaurant
+Manhattan,Greenwich Village,4b9e79e4f964a52035e736e3,Tiro A Segno
+Manhattan,East Village,40f1d480f964a520680a1fe3,Hearth
+Manhattan,East Village,49d8d101f964a520cb5d1fe3,Giano Restaurant
+Manhattan,East Village,49c6a988f964a5206e571fe3,Gnocco
+Manhattan,Lower East Side,56cf3493cd106ae44d0c76a8,Speedy Romeo LES
+Manhattan,Tribeca,4a149749f964a52055781fe3,Locanda Verde
+Manhattan,Tribeca,4ad68c35f964a520c20721e3,Pepolino
+Manhattan,Tribeca,437bc800f964a520a52a1fe3,Scalini Fedeli
+Manhattan,Tribeca,52375dee11d23f06740c8f3e,Tutto Il Giorno Tribeca
+Manhattan,Tribeca,3fd66200f964a520aae61ee3,Gigino Trattoria
+Manhattan,Little Italy,4c7d4f1b8da18cfa1afc9ece,Osteria Morini
+Manhattan,Little Italy,4cc6222106c25481d7a4a047,Rubirosa Ristorante
+Manhattan,Little Italy,3fd66200f964a52023eb1ee3,Peasant
+Manhattan,Soho,4c7d4f1b8da18cfa1afc9ece,Osteria Morini
+Manhattan,Soho,464451e5f964a52076461fe3,Aurora
+Manhattan,Soho,56d92e05498e6c54b6325b19,San Carlo Osteria Piemonte
+Manhattan,West Village,4a27289cf964a52062911fe3,L'Artusi
+Manhattan,West Village,49bd2326f964a5204d541fe3,I Sodi
+Manhattan,West Village,5c27b46a67a9fe002ce6b3ca,Fiaschetteria Pistoia
+Manhattan,West Village,543c7c63498e0a3393da47a2,Via Carota
+Manhattan,West Village,449e952ef964a520bc341fe3,Sant Ambroeus West Village
+Manhattan,West Village,4a552b26f964a520c4b31fe3,Malatesta Trattoria
+Manhattan,West Village,4d327cc72e56236a18991db4,Malaparte
+Manhattan,West Village,451d254df964a5208b3a1fe3,Gaetana's Cucina Italiana
+Manhattan,Manhattan Valley,5962a53dc824ae6362e9e625,Osteria 106
+Manhattan,Gramercy,4afb2990f964a520a91b22e3,Maialino
+Manhattan,Gramercy,57c772d1498e6cb2f6531cdf,Follia
+Manhattan,Gramercy,4abaa8bbf964a520518220e3,Lamarca Pasta
+Manhattan,Gramercy,551f21cd498e341e6a5e1276,Patrizia's of Manhattan
+Manhattan,Gramercy,4a807240f964a52040f51fe3,Coppola's
+Manhattan,Battery Park City,556cb8c6498e751e51fbcf41,Parm
+Manhattan,Battery Park City,57b4d7d7498e0b675b71f653,Osteria della Pace
+Manhattan,Financial District,5d4861420372ce0007e23375,Maestro Pasta
+Manhattan,Financial District,4a4560a7f964a5201aa81fe3,Harry's Italian Pizza Bar
+Queens,Astoria,5010b169e4b05edd9983ec7d,Antika Restaurant & Pizzeria
+Queens,Astoria,4ebf0e380aaf6450ba608920,Via Trenta
+Queens,Jackson Heights,4a82d6adf964a5206ff91fe3,Uncle Peter's
+Queens,Howard Beach,4bafdb5df964a52086263ce3,Prima Pasta & Cafe
+Queens,Howard Beach,4bae3bd0f964a52009963be3,Brothers Ravioli
+Queens,Howard Beach,4ba148f5f964a5201da937e3,Roma View Catering
+Queens,Corona,4b808501f964a5207b7930e3,Park Side
+Queens,Forest Hills,5a8237ddb6eedb04cf7abbf4,Numero 28
+Queens,Kew Gardens,4c93eb6a72dd224be41d9591,Paul Michael Brick Oven Cafe
+Queens,Flushing,4ba683e3f964a520f05939e3,Magna Restaurant
+Queens,Long Island City,57a13096498e42182b7df641,Oro Restaurant and Lounge
+Queens,Sunnyside,555d29f7498eb6112f44ecac,SoleLuna
+Queens,Sunnyside,4ce1741194c3b60c5dc776ea,Dazie's Restaurant
+Queens,Sunnyside,4bac1eb5f964a5206fe53ae3,Mario's Restautant
+Queens,Maspeth,5c6183b006fb60002ca6572b,Patrizia's of Maspeth
+Queens,Ridgewood,4b89b361f964a520074c32e3,Joe's Restaurant
+Queens,Rego Park,4c50f9ae9d642d7f357fc6dc,Avellino Ristorante & Pizzeria
+Queens,College Point,5812483b38fa2403da6f93a3,Mamma Luciana's
+Queens,Bayside,4bb7ca5b1261d13a83e2e798,Papazzio Restaurant
+Queens,Bayside,4d4e0113869cf04dd10ce4ae,Trattoria Thirty Five
+Queens,Auburndale,4b96ab2af964a520bfdc34e3,Durso's Pasta & Ravioli Company
+Queens,Little Neck,4bc8f64c0687ef3bda0bd9cc,Aunt Bella's
+Queens,Little Neck,4bae85bef964a52073bc3be3,Il Bacco
+Queens,Little Neck,4c1a9ed0b4e62d7fa119d893,La Grotta di Marcello
+Queens,Douglaston,4bc0cad874a9a59398afd0f6,Il Sapore Pizza
+Queens,Bellerose,4cf009ae7b94370446c43653,Trattoria Lucia
+Queens,Bellerose,4d0ab4386aa05481d5f5e5aa,Arturo's Ristorante Italiano
+Queens,Steinway,4b57992af964a520273928e3,Alba's Pizza & Restaurant
+Queens,Beechhurst,4e22342252b1f82ffba73c1c,due ponti ristorante
+Queens,Hillcrest,4e4dc094bd41b76bef9292dd,Dante Restaurant
+Queens,Ravenswood,5b53e651005ac10039e41a58,Botte Bar
+Queens,Belle Harbor,4bd0c0cecaff9521b878cff0,Plum Tomatoes
+Queens,Bellaire,4bdcdd7c462b2d7fd0b7113c,Cara Mia Restaurant
+Staten Island,St. George,4a271f0cf964a5205c911fe3,Enoteca Maria
+Staten Island,St. George,590928301de7651d663ae087,Marie's 2
+Staten Island,Rosebank,4bcc8e3bb6c49c7422ed9391,Tony's Brick Oven Pizzeria
+Staten Island,Rosebank,4e179bdc52b123a586ceea11,Bin 5
+Staten Island,West Brighton,4b5b58dbf964a52088f628e3,Panini Grill
+Staten Island,West Brighton,4bf872974a67c928b57725cf,Cafe Milano
+Staten Island,Mariner's Harbor,4d51deac3062a1cd37786ba3,Bella Mama Rose Italian Restaurant
+Staten Island,Mariner's Harbor,4c0e67c085e19521d678eea5,bella mama rosa staten island
+Staten Island,New Dorp,4b343839f964a5203a2625e3,La Strada
+Staten Island,New Dorp,4be61580d4f7c9b6fe662620,Brioso
+Staten Island,New Dorp,4bc73ff96501c9b696063e29,Little Italy Gourmet
+Staten Island,Great Kills,517dbe77e4b0eef580c875a3,Piccolino's italian Restaurant
+Staten Island,Great Kills,4cb8efaa90c9a143a5e183d6,Benvenuti Pizzeria e Trattoria
+Staten Island,Eltingville,4c4a44f9bad7a593ee641daa,Giovannis Trattoria
+Staten Island,Eltingville,4faee0e2e4b08260e41249d3,La Stanza
+Staten Island,Woodrow,5b04e01362845c00243e93b7,Eat Italian
+Staten Island,Tottenville,4e4ce94fbd413c4cc66d2a1f,Villaggio
+Staten Island,Arrochar,4bddbdea587b2d7fc5e25409,Basilio's Inn
+Staten Island,Arrochar,4c2546d5a852c928e5a2e46c,Italianissimo
+Staten Island,Grasmere,4b803abff964a520cd5e30e3,Nino's
+Staten Island,Old Town,4be73347d4f7c9b66c992720,Bocelli
+Staten Island,Old Town,4303cf80f964a5201c271fe3,Trattoria Romana
+Staten Island,Old Town,4b9bdbd8f964a5201e2e36e3,Cafe Luna
+Staten Island,Old Town,4daa28bd93a04642f079c973,Cielo Ristorante
+Staten Island,Dongan Hills,54e13989498ed2a42c122b0f,Mario's
+Staten Island,Dongan Hills,53e3fedd498ed822e0283349,Michael's Meatballs & Martinis
+Staten Island,New Dorp Beach,4d93fbaf8deb8cfa1ec436c0,DiSara
+Staten Island,New Dorp Beach,4c423da3d7fad13a5bde08da,NiNi's Cafe
+Staten Island,Bay Terrace,5467f745498ef31d10ea08a3,Villa Paradiso
+Staten Island,Huguenot,4ba42ec8f964a520c48938e3,Ciro
+Staten Island,Chelsea,4eeccf5a29c28028de05a3b3,Giorgio & Son Italian Specialties
+Staten Island,Bulls Head,4c853b75e602b1f731beb57a,8 Morgan Lane Pool Club
+Manhattan,Carnegie Hill,4bb4d86886a8d13a83f8de7f,Sfoglia
+Manhattan,Carnegie Hill,4aad53a2f964a520b75f20e3,Lex Restaurant
+Manhattan,Noho,3fd66200f964a520d0e41ee3,Lil' Frankie's
+Manhattan,Noho,4b709d01f964a5204c252de3,The Meatball Shop
+Manhattan,Noho,4d49d00ef53c8cfa78561c47,Gaia Italian Cafe
+Manhattan,Noho,3fd66200f964a5209de41ee3,Supper
+Manhattan,Noho,5070d27ae4b0513ffd4ddfe7,Trapizzino
+Manhattan,Noho,42893400f964a5206c231fe3,Il Posto Accanto
+Manhattan,Civic Center,5421eb06498e1b6b9c1bfd9c,Gran Morsi
+Manhattan,Civic Center,4ae86aa0f964a5202faf21e3,Sole di Capri
+Manhattan,Civic Center,4a31891bf964a520ed991fe3,Max
+Manhattan,Midtown South,55e63b89498e3ed62f75cff3,L'Amico
+Staten Island,Richmond Town,5079ccdce4b065f1dd8155ad,Casa verde
+Staten Island,Shore Acres,4bbb8986e452952190d154a4,Da Noi Fingerboard
+Staten Island,Shore Acres,4e179bdc52b123a586ceea11,Bin 5
+Staten Island,Shore Acres,4b63728ff964a5208d7a2ae3,Angie's Pizza & Restaurant
+Staten Island,Howland Hook,4bdb6e962a3a0f475213afb6,Cucina Fresca
+Staten Island,Elm Park,4d51deac3062a1cd37786ba3,Bella Mama Rose Italian Restaurant
+Brooklyn,Mill Basin,4c267153b012b71350e30893,Landi's Pork Store
+Queens,Astoria Heights,4f048814f9ab88b0c268dda3,Antonio's Kitchen
+Bronx,Concourse Village,5956be26123a195de6701c2b,Porto Salvo
+Manhattan,Sutton Place,4b566000f964a520c00d28e3,Felidia
+Manhattan,Sutton Place,4af610e2f964a520bf0022e3,Scalinatella
+Manhattan,Sutton Place,4a8f1d7ef964a520041420e3,Isle of Capri
+Manhattan,Sutton Place,4e83babe9a52bd4693c4c46f,Morso NYC
+Queens,Hunters Point,463220f3f964a520fb451fe3,Manetta's Ristorante
+Queens,Hunters Point,4a1a3f6df964a5208b7a1fe3,Bella Via
+Queens,Hunters Point,49f5bf5ef964a520b46b1fe3,Manducatis Rustica
+Queens,Hunters Point,4f74ff83e4b09b101271b89b,Manducatis
+Manhattan,Turtle Bay,59dfff99419a9e7fcc5b5fa2,La Pecora Bianca
+Manhattan,Turtle Bay,5b1db44d0d8a0f002c17fd87,Angeletto
+Manhattan,Turtle Bay,4b2042fff964a5208f2f24e3,Pietro's
+Manhattan,Turtle Bay,4a84b810f964a5206efd1fe3,Mimi's Italian Restaurant & Piano Bar
+Manhattan,Tudor City,4b2042fff964a5208f2f24e3,Pietro's
+Manhattan,Flatiron,5cc3adaa838e59002cb4629d,Rezdôra
+Manhattan,Flatiron,5a2c848293bd636532c23539,Scampi
+Manhattan,Flatiron,53370455498e18d7e6607a1d,La Pizza & La Pasta
+Queens,Sunnyside Gardens,5699aa86498ef437b2fd7102,Zio Luigi
+Brooklyn,Fulton Ferry,593c0d2262420b7feccc3048,Cecconi's
+Brooklyn,Dumbo,593c0d2262420b7feccc3048,Cecconi's
+Brooklyn,Dumbo,3fd66200f964a520ece81ee3,Noodle Pudding
+Staten Island,Egbertville,4c27cc8f3492a593cb72b628,Classic Pizza
+Queens,Middle Village,53989edf498e85ce86d65ea2,Villa Erasmo
+Staten Island,Lighthouse Hill,5079ccdce4b065f1dd8155ad,Casa verde
+Brooklyn,Madison,42508380f964a520c1201fe3,Michael's
+Bronx,Bronxdale,3fd66200f964a5207bf11ee3,F & J Pine Tavern
+Manhattan,Hudson Yards,4dcae1b18877502200c95822,Sergimmo Salumeria
+Manhattan,Hudson Yards,505b7061e4b0571999fb3da8,Tavola
+Manhattan,Hudson Yards,4abad7b8f964a520208320e3,Il Punto Ristorante
+Manhattan,Hudson Yards,57e55e46498e04b0dc14dbb0,Via Trenta
